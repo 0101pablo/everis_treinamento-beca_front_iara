@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: 400;
+    margin: 24px 0;
+}
+
+h2{
+    font-size: 1.5em;
+    color: white;
+    background-color: rgba(99, 99, 99, 0.6);
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+h1, h2{
+    text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.container{
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
+
+}
+
+.receita__imagem img,
+.receita__imagem figcaption{
+    width: auto;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.receita__imagem figcaption{
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+ul#teste3.teste.teste2 .teste2{
+    color: black
+}
+
+.receita__descricao{
+    background-color: lightgray;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
