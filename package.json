@@ -1,0 +1,27 @@
+{
+  "name": "beca_iara_front--treinamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0101pablo/everis_treinamento-beca_front_iara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0101pablo/everis_treinamento-beca_front_iara/issues"
+  },
+  "homepage": "https://github.com/0101pablo/everis_treinamento-beca_front_iara#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-sequence": "^1.0.0"
+  }
+}
